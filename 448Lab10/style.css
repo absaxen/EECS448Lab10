@@ -1,0 +1,17 @@
+html{
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+}
+body{
+    font-size: 24px;
+    background-color: rgb(245, 194, 194);
+}
+table, th, td {
+    border: 1px solid rgb(1, 13, 66);
+    font-size: 24px;
+    text-align: center;
+}
+table{
+    margin-left: auto;
+    margin-right: auto;
+}
